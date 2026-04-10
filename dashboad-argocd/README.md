@@ -37,8 +37,8 @@ Synced + Healthy = deployment berhasil! Argo CD sudah sinkron dengan Git.
 Mulai sekarang: setiap kali kamu git push ke repo, Argo CD akan otomatis deploy dalam ~3 menit.
 
 Hasil akhir:
-![app-overview](./image/5.png)
-![detail](./image/6.png)
+![app-overview](../image/5.png) D:\Codingan gw\Argo-CD\image\5.png
+![detail](../image/6.png)
 
 - Server
 ```bash
